@@ -18,7 +18,7 @@ My name is Daniel Reynel Dominguez Ceballos.
 Online Sites
 </div>
 -
- <a href="https://t.me/gatoman">
+ <a href="https://t.me/gatomanPera">
  📱Telegram 
 </a>
 
